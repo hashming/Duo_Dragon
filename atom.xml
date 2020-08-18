@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://0m7q66.coding-pages.com</id>
     <title>Duo_Dragon</title>
-    <updated>2020-08-18T01:45:06.549Z</updated>
+    <updated>2020-08-18T01:50:18.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://0m7q66.coding-pages.com"/>
     <link rel="self" href="https://0m7q66.coding-pages.com/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://0m7q66.coding-pages.com/post/guacamole-da-jian-yuan-sheng/">
         </link>
         <updated>2020-08-18T01:44:12.000Z</updated>
-        <content type="html"><![CDATA[<p>本文由 简悦 SimpRead 转码， 原文地址 zvv.me<br>
+        <content type="html"><![CDATA[<p><img src="https://0m7q66.coding-pages.com/post-images/1597715398409.png" alt="" loading="lazy">😁<br>
+本文由 简悦 SimpRead 转码， 原文地址 zvv.me<br>
 Apache Guacamole 是一款 HTML5 应用程序，可通过 RDP，VNC 和其他协议访问远程桌面。您可以创建一个虚拟云桌面，用户通过 Web 浏览器即可访问。本指南将介绍如何通过 Docker 安装 Apache Guacamole，并借助其访问托管在 Linode 上的远程桌面。<br>
 安装 Docker<br>
 这里介绍的方法将安装最新版本的 Docker。如需安装特定版本 Docker，或需要 Docker EE 环境，请参阅官方文档寻求帮助。<br>
