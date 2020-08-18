@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/hashming/Duo_Dragon.git</id>
+    <id>https://github.com/hashming/Duo_Dragon</id>
     <title>Duo_Dragon</title>
-    <updated>2020-08-18T04:12:07.398Z</updated>
+    <updated>2020-08-18T04:18:16.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/hashming/Duo_Dragon.git"/>
-    <link rel="self" href="https://github.com/hashming/Duo_Dragon.git/atom.xml"/>
+    <link rel="alternate" href="https://github.com/hashming/Duo_Dragon"/>
+    <link rel="self" href="https://github.com/hashming/Duo_Dragon/atom.xml"/>
     <subtitle>想不想变强？</subtitle>
-    <logo>https://github.com/hashming/Duo_Dragon.git/images/avatar.png</logo>
-    <icon>https://github.com/hashming/Duo_Dragon.git/favicon.ico</icon>
+    <logo>https://github.com/hashming/Duo_Dragon/images/avatar.png</logo>
+    <icon>https://github.com/hashming/Duo_Dragon/favicon.ico</icon>
     <rights>All rights reserved 2020, Duo_Dragon</rights>
     <entry>
         <title type="html"><![CDATA[guacamole搭建（原生）]]></title>
-        <id>https://github.com/hashming/Duo_Dragon.git/post/guacamole-da-jian-yuan-sheng/</id>
-        <link href="https://github.com/hashming/Duo_Dragon.git/post/guacamole-da-jian-yuan-sheng/">
+        <id>https://github.com/hashming/Duo_Dragon/post/guacamole-da-jian-yuan-sheng/</id>
+        <link href="https://github.com/hashming/Duo_Dragon/post/guacamole-da-jian-yuan-sheng/">
         </link>
         <updated>2020-08-18T01:44:12.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://github.com/hashming/Duo_Dragon.git/post-images/1597715398409.png" alt="" loading="lazy">😁</p>
+        <content type="html"><![CDATA[<p><img src="https://github.com/hashming/Duo_Dragon/post-images/1597715398409.png" alt="" loading="lazy">😁</p>
 <p>Apache Guacamole 是一款 HTML5 应用程序，可通过 RDP，VNC 和其他协议访问远程桌面。您可以创建一个虚拟云桌面，用户通过 Web 浏览器即可访问。本指南将介绍如何通过 Docker 安装 Apache Guacamole，并借助其访问托管在 Linode 上的远程桌面。<br>
 安装 Docker<br>
 这里介绍的方法将安装最新版本的 Docker。如需安装特定版本 Docker，或需要 Docker EE 环境，请参阅官方文档寻求帮助。<br>
@@ -179,8 +179,8 @@ via.https://cloud.tencent.com/developer/article/1339957</li>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/hashming/Duo_Dragon.git/post/hello-gridea/</id>
-        <link href="https://github.com/hashming/Duo_Dragon.git/post/hello-gridea/">
+        <id>https://github.com/hashming/Duo_Dragon/post/hello-gridea/</id>
+        <link href="https://github.com/hashming/Duo_Dragon/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
